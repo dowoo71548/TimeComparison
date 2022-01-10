@@ -8,7 +8,7 @@ function App() {
     <>
       <Navigation/>
       <Switch>
-        <Route path='/' component={Clock}/>
+        <Route path='/TimeComparison' component={Clock}/>
       </Switch>
     </>
   );
