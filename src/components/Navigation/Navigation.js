@@ -10,7 +10,7 @@ const Navigation = () => {
         <Navbar.Toggle aria-controls='responsive-navbar-nav' />
         <Navbar.Collapse id='responsive-navbar-nav'>
           <Nav>
-            <Nav.Link href='/TimeComparison'>
+            <Nav.Link href='/TimeComparisonOfCities'>
               <div className='link-text'>
                 Clock
               </div>
