@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TimeComparison/static/css/main.4b5686c9.chunk.css",
+    "main.js": "/TimeComparison/static/js/main.91553e58.chunk.js",
+    "main.js.map": "/TimeComparison/static/js/main.91553e58.chunk.js.map",
+    "runtime-main.js": "/TimeComparison/static/js/runtime-main.e3a55349.js",
+    "runtime-main.js.map": "/TimeComparison/static/js/runtime-main.e3a55349.js.map",
+    "static/css/2.818011ed.chunk.css": "/TimeComparison/static/css/2.818011ed.chunk.css",
+    "static/js/2.2398ff85.chunk.js": "/TimeComparison/static/js/2.2398ff85.chunk.js",
+    "static/js/2.2398ff85.chunk.js.map": "/TimeComparison/static/js/2.2398ff85.chunk.js.map",
+    "static/js/3.f53c29c2.chunk.js": "/TimeComparison/static/js/3.f53c29c2.chunk.js",
+    "static/js/3.f53c29c2.chunk.js.map": "/TimeComparison/static/js/3.f53c29c2.chunk.js.map",
+    "index.html": "/TimeComparison/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/TimeComparison/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.4b5686c9.chunk.css.map": "/TimeComparison/static/css/main.4b5686c9.chunk.css.map",
+    "static/js/2.2398ff85.chunk.js.LICENSE.txt": "/TimeComparison/static/js/2.2398ff85.chunk.js.LICENSE.txt",
+    "static/media/worldMap.1db5d311.png": "/TimeComparison/static/media/worldMap.1db5d311.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3a55349.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.2398ff85.chunk.js",
+    "static/css/main.4b5686c9.chunk.css",
+    "static/js/main.91553e58.chunk.js"
+  ]
+}
