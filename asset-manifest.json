@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/TimeComparison/static/css/main.cd2c6616.chunk.css",
-    "main.js": "/TimeComparison/static/js/main.b7eac5b6.chunk.js",
-    "main.js.map": "/TimeComparison/static/js/main.b7eac5b6.chunk.js.map",
-    "runtime-main.js": "/TimeComparison/static/js/runtime-main.7e327420.js",
-    "runtime-main.js.map": "/TimeComparison/static/js/runtime-main.7e327420.js.map",
-    "static/css/2.818011ed.chunk.css": "/TimeComparison/static/css/2.818011ed.chunk.css",
-    "static/js/2.0d75d75a.chunk.js": "/TimeComparison/static/js/2.0d75d75a.chunk.js",
-    "static/js/2.0d75d75a.chunk.js.map": "/TimeComparison/static/js/2.0d75d75a.chunk.js.map",
-    "static/js/3.d723868f.chunk.js": "/TimeComparison/static/js/3.d723868f.chunk.js",
-    "static/js/3.d723868f.chunk.js.map": "/TimeComparison/static/js/3.d723868f.chunk.js.map",
-    "index.html": "/TimeComparison/index.html",
-    "static/css/2.818011ed.chunk.css.map": "/TimeComparison/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.cd2c6616.chunk.css.map": "/TimeComparison/static/css/main.cd2c6616.chunk.css.map",
-    "static/js/2.0d75d75a.chunk.js.LICENSE.txt": "/TimeComparison/static/js/2.0d75d75a.chunk.js.LICENSE.txt",
-    "static/media/worldMap.1db5d311.png": "/TimeComparison/static/media/worldMap.1db5d311.png"
+    "main.css": "/TimeComparisonOfCities/static/css/main.cd2c6616.chunk.css",
+    "main.js": "/TimeComparisonOfCities/static/js/main.05e30599.chunk.js",
+    "main.js.map": "/TimeComparisonOfCities/static/js/main.05e30599.chunk.js.map",
+    "runtime-main.js": "/TimeComparisonOfCities/static/js/runtime-main.92b44d93.js",
+    "runtime-main.js.map": "/TimeComparisonOfCities/static/js/runtime-main.92b44d93.js.map",
+    "static/css/2.818011ed.chunk.css": "/TimeComparisonOfCities/static/css/2.818011ed.chunk.css",
+    "static/js/2.0d75d75a.chunk.js": "/TimeComparisonOfCities/static/js/2.0d75d75a.chunk.js",
+    "static/js/2.0d75d75a.chunk.js.map": "/TimeComparisonOfCities/static/js/2.0d75d75a.chunk.js.map",
+    "static/js/3.d723868f.chunk.js": "/TimeComparisonOfCities/static/js/3.d723868f.chunk.js",
+    "static/js/3.d723868f.chunk.js.map": "/TimeComparisonOfCities/static/js/3.d723868f.chunk.js.map",
+    "index.html": "/TimeComparisonOfCities/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/TimeComparisonOfCities/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.cd2c6616.chunk.css.map": "/TimeComparisonOfCities/static/css/main.cd2c6616.chunk.css.map",
+    "static/js/2.0d75d75a.chunk.js.LICENSE.txt": "/TimeComparisonOfCities/static/js/2.0d75d75a.chunk.js.LICENSE.txt",
+    "static/media/worldMap.1db5d311.png": "/TimeComparisonOfCities/static/media/worldMap.1db5d311.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e327420.js",
+    "static/js/runtime-main.92b44d93.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.0d75d75a.chunk.js",
     "static/css/main.cd2c6616.chunk.css",
-    "static/js/main.b7eac5b6.chunk.js"
+    "static/js/main.05e30599.chunk.js"
   ]
 }
