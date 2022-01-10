@@ -1,0 +1,27 @@
+.time-difference-box {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.reset-button {
+  border: none;
+  background: none;
+  font-size: 1.1rem;
+}
+
+.reset-button-text {
+  text-align: end;
+  padding-right: 15%;
+}
+
+.first-city {
+  color: rgba(0, 0, 255, 1);
+  font-style: italic;
+  font-weight: 500;
+}
+
+.second-city {
+  color: rgba(255, 0, 0, 1);
+  font-style: italic;
+  font-weight: 500;
+}

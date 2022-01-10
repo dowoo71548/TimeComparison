@@ -1,0 +1,42 @@
+.world-map {
+  grid-area: world-map;
+  justify-self: center;
+  align-self: start;
+}
+
+.text-box {
+  grid-area: text-box;
+  align-self: end;
+}
+
+.selected-cities {
+  grid-area: selected-cities;
+  justify-self: center;
+  align-self: center;
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+.right-display-grid {
+  display: grid;
+  grid-template-rows: 500px 80px 50px auto;
+  row-gap: 20px;
+  grid-template-areas:
+  ' world-map       '
+  ' selected-cities '
+  '      .          '
+  '  text-box       ';
+}
+
+.notice-text {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.blue-text {
+  color: rgba(0, 0, 255, 1);
+}
+
+.red-text {
+  color: rgba(255, 0, 0, 1);
+}
